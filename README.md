@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 29, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Duncan Lopatine)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I added code to make an accurate website that matched the statistics of the 2018 tax bracket. I also added code to clear all of the calculation.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://dml16j.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to edit code and make math functions in JavaScript.)
+2. (I learned how to add functions that clear entries on a website.)
+3. (I learned how to find an error in a .js document and fix the code to make it work.)
 
